@@ -1,137 +1,137 @@
 # ideas
 
-1. Domestic / Household
+## Domestic / Household
 
-   - Drinking and cooking
+1. Drinking and cooking
 
-   - Bathing, showering, hand-washing
+2. Bathing, showering, hand-washing
 
-   - Laundry and dishwashing
+3. Laundry and dishwashing
 
-   - Toilet flushing
+4. Toilet flushing
 
-   - Cleaning floors, surfaces, and vehicles
+5. Cleaning floors, surfaces, and vehicles
 
-   - Indoor plants and small home gardens
+6. Indoor plants and small home gardens
 
-   - Humidifying air (evaporative coolers, humidifiers)
+7. Humidifying air (evaporative coolers, humidifiers)
 
-2. Agricultural
+## Agricultural
 
-   - Irrigation of crops, orchards, vineyards, and greenhouses
+1. Irrigation of crops, orchards, vineyards, and greenhouses
 
-   - Livestock drinking water
+2. Livestock drinking water
 
-   - Aquaculture (fish farms, shrimp farms)
+3. Aquaculture (fish farms, shrimp farms)
 
-   - Soil preparation (flooding, paddy fields)
+4. Soil preparation (flooding, paddy fields)
 
-   - Pesticide/fertilizer dilution
+5. Pesticide/fertilizer dilution
 
-3. Industrial & Manufacturing
+## Industrial & Manufacturing
 
-   - Cooling and heat exchange (power plants, refineries, data centers)
+1. Cooling and heat exchange (power plants, refineries, data centers)
 
-   - Processing and ingredient water (food & beverage, pharmaceuticals, electronics)
+2. Processing and ingredient water (food & beverage, pharmaceuticals, electronics)
 
-   - Cleaning and sanitation of equipment
+3. Cleaning and sanitation of equipment
 
-   - Steam generation for turbines and boilers
+4. Steam generation for turbines and boilers
 
-   - Mining and ore processing
+5. Mining and ore processing
 
-   - Textile dyeing and finishing
+6. Textile dyeing and finishing
 
-   - Pulp & paper production
+7. Pulp & paper production
 
-4. Energy & Power
+## Energy & Power
 
-   - Hydroelectric power generation
+1. Hydroelectric power generation
 
-   - Cooling for thermal/nuclear power stations
+2. Cooling for thermal/nuclear power stations
 
-   - Oil & gas drilling, fracking, and refining
+3. Oil & gas drilling, fracking, and refining
 
-   - Hydrogen production (electrolysis)
+4. Hydrogen production (electrolysis)
 
-5. Environmental & Ecological
+## Environmental & Ecological
 
-   - Maintaining wetlands, rivers, and estuaries
+1. Maintaining wetlands, rivers, and estuaries
 
-   - Supporting aquatic habitats and biodiversity
+2. Supporting aquatic habitats and biodiversity
 
-   - Diluting pollutants to maintain water quality
+3. Diluting pollutants to maintain water quality
 
-   - Reforestation and afforestation projects
+4. Reforestation and afforestation projects
 
-   - Groundwater recharge
+5. Groundwater recharge
 
-6. Municipal & Public Services
+## Municipal & Public Services
 
-   - - Firefighting and fire hydrants
+1. Firefighting and fire hydrants
 
-   - - Street cleaning and dust suppression
+2. Street cleaning and dust suppression
 
-   - - Parks, public fountains, and urban landscaping
+3. Parks, public fountains, and urban landscaping
 
-   - - Water features (lakes, ponds, decorative pools)
+4. Water features (lakes, ponds, decorative pools)
 
-   - - Snowmaking for roads and ski resorts
+5. Snowmaking for roads and ski resorts
 
-7. Transportation & Infrastructure
+## Transportation & Infrastructure
 
-   - - Shipping and navigation (canals, ports)
+1. Shipping and navigation (canals, ports)
 
-   - - Cooling and cleaning of vehicles, aircraft, and trains
+2. Cooling and cleaning of vehicles, aircraft, and trains
 
-   - - Concrete mixing and road construction
+3. Concrete mixing and road construction
 
-   - - Tunneling and drilling lubrication
+4. Tunneling and drilling lubrication
 
-8. Recreational
+## Recreational
 
-   - Swimming pools, spas, and hot tubs
+1. Swimming pools, spas, and hot tubs
 
-   - Water parks and amusement rides
+2. Water parks and amusement rides
 
-   - Boating, kayaking, and sailing
+3. Boating, kayaking, and sailing
 
-   - Fishing and scuba diving
+4. Fishing and scuba diving
 
-   - Ice rinks (frozen water surfaces)
+5. Ice rinks (frozen water surfaces)
 
-9. Cultural & Religious
+## Cultural & Religious
 
-   - Ritual baths, ablutions, and ceremonial washing
+1. Ritual baths, ablutions, and ceremonial washing
 
-   - Sacred rivers, lakes, or springs for pilgrimages
+2. Sacred rivers, lakes, or springs for pilgrimages
 
-   - Festivals involving water (e.g., Songkran in Thailand)
+3. Festivals involving water (##, Songkran in Thailand)
 
-10. Scientific & Medical
+## Scientific & Medical
 
-    - Laboratory experiments and reagent preparation
+1. Laboratory experiments and reagent preparation
 
-    - Sterilization (autoclaves)
+2. Sterilization (autoclaves)
 
-    - Medical procedures (dialysis, surgery irrigation)
+3. Medical procedures (dialysis, surgery irrigation)
 
-    - Space missions (life support and cooling systems)
+4. Space missions (life support and cooling systems)
 
-11. Emergency & Military
+## Emergency & Military
 
-      - Disaster relief (drinking and sanitation)
+1. Disaster relief (drinking and sanitation)
 
-      - Decontamination after chemical/biological hazards
+2. Decontamination after chemical/biological hazards
 
-      - Military base operations and training
+3. Military base operations and training
 
-12. Emerging / High-Tech
+## Emerging / High1.Tech
 
-      - Semiconductor fabrication (ultrapure water)
+1. Semiconductor fabrication (ultrapure water)
 
-      - Battery production and cooling
+2. Battery production and cooling
 
-      - Data center liquid cooling
+3. Data center liquid cooling
 
-      - Green hydrogen and fuel cells
+4. Green hydrogen and fuel cells
