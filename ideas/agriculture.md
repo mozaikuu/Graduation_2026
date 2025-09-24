@@ -1,111 +1,111 @@
 # ideas
 
-1. Food Production
+## Food Production
 
-Staple crops: grains (wheat, rice, corn, barley), legumes, root crops (potatoes, cassava)
+1. Staple crops: grains (wheat, rice, corn, barley), legumes, root crops (potatoes, cassava)
 
-Fruits & vegetables: orchards, vineyards, greenhouses
+2. Fruits & vegetables: orchards, vineyards, greenhouses
 
-Livestock & poultry: meat (beef, pork, chicken, lamb), eggs
+3. Livestock & poultry: meat (beef, pork, chicken, lamb), eggs
 
-Dairy: milk, cheese, butter, yogurt
+4. Dairy: milk, cheese, butter, yogurt
 
-Aquaculture: fish, shrimp, mollusks, seaweed farms
+5. Aquaculture: fish, shrimp, mollusks, seaweed farms
 
-Edible oils: olive, sunflower, canola, palm
+6. Edible oils: olive, sunflower, canola, palm
 
-Spices & herbs: culinary and medicinal (pepper, basil, mint)
+7. Spices & herbs: culinary and medicinal (pepper, basil, mint)
 
-Honey & apiculture: bees for honey and pollination services
+8. Honey & apiculture: bees for honey and pollination services
 
-2. Raw Materials & Industry
+## Raw Materials & Industry
 
-Fibers: cotton, flax, hemp, jute, wool, silk
+1. Fibers: cotton, flax, hemp, jute, wool, silk
 
-Natural rubber (latex from Hevea trees)
+2. Natural rubber (latex from Hevea trees)
 
-Leather & hides from livestock
+3. Leather & hides from livestock
 
-Timber & bamboo for construction and furniture
+4. Timber & bamboo for construction and furniture
 
-Plant-based chemicals: dyes, essential oils, natural resins
+5. Plant-based chemicals: dyes, essential oils, natural resins
 
-Biofuels: ethanol (corn, sugarcane), biodiesel (soy, palm, algae)
+6. Biofuels: ethanol (corn, sugarcane), biodiesel (soy, palm, algae)
 
-Industrial starches & gums (cornstarch, guar gum)
+7. Industrial starches & gums (cornstarch, guar gum)
 
-3. Beverages & Specialty Crops
+## Beverages & Specialty Crops
 
-Coffee, tea, cocoa
+1. Coffee, tea, cocoa
 
-Grapes for wine, hops and barley for beer
+2. Grapes for wine, hops and barley for beer
 
-Sugarcane and sugar beet for sweeteners and rum
+3. Sugarcane and sugar beet for sweeteners and rum
 
-Tobacco
+4. Tobacco
 
-Spices for global trade (cinnamon, cardamom, vanilla)
+5. Spices for global trade (cinnamon, cardamom, vanilla)
 
-4. Animal & Environmental Services
+## Animal & Environmental Services
 
-Draft animals for plowing and transport (oxen, horses, camels)
+1. Draft animals for plowing and transport (oxen, horses, camels)
 
-Manure for natural fertilizer and biogas
+2. Manure for natural fertilizer and biogas
 
-Pollination by managed bees and other insects
+3. Pollination by managed bees and other insects
 
-Soil conservation via cover crops and pasture rotation
+4. Soilconservation via cover crops and pasture rotation
 
-Habitat creation for wildlife (hedgerows, agroforestry)
+5. Habitat creation for wildlife (hedgerows, agroforestry)
 
-5. Health & Medicine
+## Health & Medicine
 
-Medicinal plants (aloe, artemisia, ginseng)
+1. Medicinal plants (aloe, artemisia, ginseng)
 
-Pharmaceutical precursors (morphine from poppies, quinine from cinchona)
+2. Pharmaceutical precursors (morphine from poppies, quinine from cinchona)
 
 Nutraceuticals and functional foods (chia, turmeric, spirulina)
 
-6. Economic & Cultural Roles
+## Economic & Cultural Roles
 
-Rural employment and livelihoods
+1. Rural employment and livelihoods
 
-Export commodities and foreign exchange earnings
+2. Export commodities and foreign exchange earnings
 
-Cultural identity and traditional cuisines
+3. Cultural identity and traditional cuisines
 
-Festivals and rituals tied to planting/harvest seasons
+4. Festivals and rituals tied to planting/harvest seasons
 
-7. Infrastructure & Support Systems
+## Infrastructure & Support Systems
 
-Irrigation networks and water management
+1. Irrigation networks and water management
 
-Storage, silos, and cold chains
+2. Storage, silos, and cold chains
 
-Farm machinery and precision agriculture (drones, sensors, robotics)
+3. Farmmachinery and precision agriculture (drones, sensors, robotics)
 
-Agricultural research and seed banks
+4. Agricultural research and seed banks
 
-Transportation to markets and global supply chains
+5. Transportation to markets and global supply chains
 
-8. Environmental & Climate Functions
+## Environmental & Climate Functions
 
-Carbon sequestration through soils and forests
+1. Carbon sequestration through soils and forests
 
-Agroforestry and reforestation projects
+2. Agroforestry and reforestation projects
 
-Maintaining biodiversity in managed landscapes
+3. Maintaining biodiversity in managed landscapes
 
-Renewable energy integration (solar panels on farmland, wind turbines)
+4. Renewable energy integration (solar panels on farmland, wind turbines)
 
-9. Emerging / High-Tech
+## Emerging / High-Tech
 
-Vertical farming and hydroponics/aquaponics
+1. Vertical farming and hydroponics/aquaponics
 
-Genetic engineering and CRISPR-edited crops
+2. Genetic engineering and CRISPR-edited crops
 
-Biofabrication (cultured meat, plant-based proteins)
+3. Biofabrication (cultured meat, plant-based proteins)
 
-Smart farming with IoT, AI, and robotics
+4. Smart farming with IoT, AI, and robotics
 
-Algae cultivation for biofuel, food, and carbon capture
+5. Algae cultivation for biofuel, food, and carbon capture

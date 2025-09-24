@@ -1,167 +1,167 @@
 # ideas
 
-1. Domestic / Household
+## Domestic / Household
 
-Electricity for lighting, appliances, electronics, and home automation
+1. Electricity for lighting, appliances, electronics, and home automation
 
-Space heating and cooling (HVAC systems, fans, heat pumps)
+2. Space heating and cooling (HVAC systems, fans, heat pumps)
 
-Water heating (showers, dishwashers, laundry)
+3. Water heating (showers, dishwashers, laundry)
 
-Cooking (electric/gas stoves, microwaves, ovens)
+4. Cooking (electric/gas stoves, microwaves, ovens)
 
-Personal devices: phones, laptops, entertainment systems
+5. Personal devices: phones, laptops, entertainment systems
 
-Electric vehicles and home EV chargers
+6. Electric vehicles and home EV chargers
 
-Backup power (batteries, generators, UPS)
+7. Backup power (batteries, generators, UPS)
 
-2. Transportation
+## Transportation
 
-Road: cars, buses, trucks, motorcycles (gasoline, diesel, electric)
+1. Road: cars, buses, trucks, motorcycles (gasoline, diesel, electric)
 
-Rail: electric trains, diesel locomotives, high-speed rail
+2. Rail: electric trains, diesel locomotives, high-speed rail
 
-Air: commercial aviation, cargo planes, drones
+3. Air: commercial aviation, cargo planes, drones
 
-Marine: ships, ferries, submarines
+4. Marine: ships, ferries, submarines
 
-Space: rockets, satellites, space stations
+5. Space: rockets, satellites, space stations
 
-Infrastructure: fueling stations, charging networks, traffic systems
+6. Infrastructure: fueling stations, charging networks, traffic systems
 
-3. Industrial & Manufacturing
+## Industrial & Manufacturing
 
-Running heavy machinery, assembly lines, and robotics
+1. Running heavy machinery, assembly lines, and robotics
 
-High-temperature processes: smelting, forging, glassmaking, cement
+2. High-temperature processes: smelting, forging, glassmaking, cement
 
-Chemical production (fertilizers, plastics, pharmaceuticals)
+3. Chemical production (fertilizers, plastics, pharmaceuticals)
 
-Refining oil, gas, and biofuels
+4. Refining oil, gas, and biofuels
 
-Data centers and large-scale computing (AI training, crypto mining)
+5. Data centers and large-scale computing (AI training, crypto mining)
 
-Packaging, sorting, and warehouse automation
+6. Packaging, sorting, and warehouse automation
 
-4. Agriculture & Food
+## Agriculture & Food
 
-Irrigation pumps and water distribution
+1. Irrigation pumps and water distribution
 
-Greenhouse climate control (heating, cooling, lighting)
+2. Greenhouse climate control (heating, cooling, lighting)
 
-Tractors, harvesters, and automated farm equipment
+3. Tractors, harvesters, and automated farm equipment
 
-Refrigeration and food storage (cold chains)
+4. Refrigeration and food storage (cold chains)
 
-Food processing, milling, and packaging
+5. Food processing, milling, and packaging
 
-5. Commercial & Services
+## Commercial & Services
 
-Lighting, heating, and cooling in offices, malls, hotels, restaurants
+1. Lighting, heating, and cooling in offices, malls, hotels, restaurants
 
-Commercial kitchens and laundries
+2. Commercial kitchens and laundries
 
-Elevators, escalators, and automatic doors
+3. Elevators, escalators, and automatic doors
 
-IT infrastructure: servers, networks, telecom towers
+4. IT infrastructure: servers, networks, telecom towers
 
-Entertainment venues (theaters, arenas, amusement rides)
+5. Entertainment venues (theaters, arenas, amusement rides)
 
-6. Municipal & Public Services
+## Municipal & Public Services
 
-Street lighting and traffic signals
+1. Street lighting and traffic signals
 
-Public transportation networks (metros, buses)
+2. Public transportation networks (metros, buses)
 
-Water treatment and pumping stations
+3. Water treatment and pumping stations
 
-Waste management, recycling plants, incinerators
+4. Waste management, recycling plants, incinerators
 
-Firefighting equipment and emergency response centers
+5. Firefighting equipment and emergency response centers
 
-Security systems (cameras, sensors)
+6. Security systems (cameras, sensors)
 
-7. Health & Medical
+## Health & Medical
 
-Hospitals: MRI, X-ray, ventilators, sterilization equipment
+1. Hospitals: MRI, X-ray, ventilators, sterilization equipment
 
-Laboratories and research facilities
+2. Laboratories and research facilities
 
-Vaccine refrigeration and pharmaceutical manufacturing
+3. Vaccine refrigeration and pharmaceutical manufacturing
 
-Life-support systems in ambulances and aircraft
+4. Life-support systems in ambulances and aircraft
 
-8. Science & Technology
+## Science & Technology
 
-Supercomputing and high-performance research clusters
+1. Supercomputing and high-performance research clusters
 
-Particle accelerators (e.g., CERN)
+2. Particle accelerators (##, CERN)
 
-Space exploration (propulsion, life-support)
+3. Space exploration (propulsion, life-support)
 
-Robotics, AI training, and sensor networks
+4. Robotics, AI training, and sensor networks
 
-Quantum computing and cryogenics
+5. Quantum computing and cryogenics
 
-9. Construction & Infrastructure
+## Construction & Infrastructure
 
-Power tools, cranes, and heavy equipment
+1. Power tools, cranes, and heavy equipment
 
-Concrete mixing, welding, cutting, drilling
+2. Concrete mixing, welding, cutting, drilling
 
-Tunnel boring and road paving machinery
+3. Tunnel boring and road paving machinery
 
-Temporary lighting and site heating/cooling
+4. Temporary lighting and site heating/cooling
 
-10. Recreation & Leisure
+5. 1## Recreation & Leisure
 
-Theme parks, ski lifts, and snowmaking
+6. Theme parks, ski lifts, and snowmaking
 
-Sports stadiums (lighting, climate control)
+7. Sports stadiums (lighting, climate control)
 
-Home entertainment: gaming consoles, streaming, VR
+8. Home entertainment: gaming consoles, streaming, VR
 
-Electric bikes, scooters, and hobby drones
+9. Electric bikes, scooters, and hobby drones
 
-11. Cultural & Religious
+## Cultural & Religious
 
-Lighting for festivals and ceremonies
+1. Lighting for festivals and ceremonies
 
-Audio/visual systems for events and houses of worship
+2. Audio/visual systems for events and houses of worship
 
-Fireworks, decorative lighting, and special effects
+3. Fireworks, decorative lighting, and special effects
 
-12. Environmental & Ecological
+## Environmental & Ecological
 
-Renewable energy harvesting (solar panels, wind turbines, hydro plants)
+1. Renewable energy harvesting (solar panels, wind turbines, hydro plants)
 
-Wildlife monitoring sensors and camera traps
+2. Wildlife monitoring sensors and camera traps
 
-Desalination plants and irrigation for ecosystem restoration
+3. Desalination plants and irrigation for ecosystem restoration
 
-Pollution control (scrubbers, filters)
+4. Pollution control (scrubbers, filters)
 
-13. Emergency & Military
+5. 1## Emergency & Military
 
-Base operations, radar, communications
+6. Base operations, radar, communications
 
-Electric defense systems (lasers, railguns, drones)
+7. Electric defense systems (lasers, railguns, drones)
 
-Disaster relief: mobile hospitals, desalination, water pumping
+8. Disaster relief: mobile hospitals, desalination, water pumping
 
-Backup power grids and hardened infrastructure
+9. Backup power grids and hardened infrastructure
 
-14. Emerging / High-Tech
+## Emerging / High-Tech
 
-Fusion research reactors
+1. Fusion research reactors
 
-Electric aviation and eVTOL aircraft
+2. Electric aviation and eVTOL aircraft
 
-Hydrogen production and fuel cells
+3. Hydrogen production and fuel cells
 
-Blockchain networks and decentralized computing
+4. Blockchain networks and decentralized computing
 
-Smart grids and large-scale energy storage (batteries, pumped hydro)
+5. Smart grids and large-scale energy storage (batteries, pumped hydro)
 
-Wireless energy transfer and space-based solar power
+6. Wireless energy transfer and space-based solar power

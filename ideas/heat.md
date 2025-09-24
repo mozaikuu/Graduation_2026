@@ -1,145 +1,145 @@
 # ideas
 
-1. Domestic / Household
+## Domestic / Household
 
-Space heating: radiators, furnaces, under-floor systems, fireplaces
+1. Space heating: radiators, furnaces, under-floor systems, fireplaces
 
-Cooking & food prep: stovetops, ovens, grills, toasters
+2. Cooking & food prep: stovetops, ovens, grills, toasters
 
-Hot water supply: showers, baths, dishwashers, laundry
+3. Hot water supply: showers, baths, dishwashers, laundry
 
-Drying clothes (dryers, clotheslines using sun/ambient heat)
+4. Drying clothes (dryers, clotheslines using sun/ambient heat)
 
-Home saunas, steam rooms, and heated pools
+5. Home saunas, steam rooms, and heated pools
 
-Personal comfort items (heating pads, electric blankets)
+6. Personal comfort items (heating pads, electric blankets)
 
-2. Agricultural
+## Agricultural
 
-Greenhouse heating to maintain optimal plant growth
+1. Greenhouse heating to maintain optimal plant growth
 
-Soil sterilization and frost protection
+2. Soil sterilization and frost protection
 
-Drying crops, grains, herbs, and tobacco
+3. Drying crops, grains, herbs, and tobacco
 
-Livestock housing (incubators, brooders, barn heaters)
+4. Livestock housing (incubators, brooders, barn heaters)
 
-Pasteurization of milk on farms
+5. Pasteurization of milk on farms
 
-Composting (controlled heat for decomposition)
+6. Composting (controlled heat for decomposition)
 
-3. Industrial & Manufacturing
+## Industrial & Manufacturing
 
-Process heat (often the biggest industrial energy use):
+1. Process heat (often the biggest industrial energy use):
 
-Metal smelting, forging, welding
+2. Metal smelting, forging, welding
 
-Glass blowing and ceramics kilns
+3. Glass blowing and ceramics kilns
 
-Chemical reactions requiring high temperatures (ammonia, plastics)
+4. Chemical reactions requiring high temperatures (ammonia, plastics)
 
-Food processing, pasteurization, canning, baking
+5. Food processing, pasteurization, canning, baking
 
-Textile dyeing and finishing
+6. Textile dyeing and finishing
 
-Steam generation for turbines and machinery
+7. Steam generation for turbines and machinery
 
-Drying, curing, and setting materials (paint, paper, lumber)
+8. Drying, curing, and setting materials (paint, paper, lumber)
 
-Desalination via thermal distillation
+9. Desalination via thermal distillation
 
-Refining petroleum and petrochemicals
+10. Refining petroleum and petrochemicals
 
-4. Energy & Power
+## Energy & Power
 
-Thermal power plants (coal, gas, nuclear) to drive steam turbines
+1. Thermal power plants (coal, gas, nuclear) to drive steam turbines
 
-Concentrated solar power (mirrors focusing sunlight to create steam)
+2. Concentrated solar power (mirrors focusing sunlight to create steam)
 
-Geothermal energy extraction
+3. Geothermal energy extraction
 
-District heating networks delivering steam/hot water to buildings
+4. District heating networks delivering steam/hot water to buildings
 
-Waste heat recovery to produce electricity or warm water
+5. Waste heat recovery to produce electricity or warm water
 
-5. Transportation
+## Transportation
 
-Engine combustion and propulsion (cars, ships, airplanes)
+1. Engine combustion and propulsion (cars, ships, airplanes)
 
-Cabin heating in vehicles, aircraft, trains
+2. Cabin heating in vehicles, aircraft, trains
 
-De-icing runways or rail switches
+3. De-icing runways or rail switches
 
-Exhaust heat recovery systems
+4. Exhaust heat recovery systems
 
-6. Environmental & Ecological
+## Environmental & Ecological
 
-Controlled burns for forest management
+1. Controlled burns for forest management
 
-Accelerating compost or bio-digester processes
+2. Accelerating compost or bio-digester processes
 
-Soil warming for habitat restoration
+3. Soil warming for habitat restoration
 
-Melting snow/ice for flood management
+4. Melting snow/ice for flood management
 
-7. Municipal & Public Services
+## Municipal & Public Services
 
-Street and sidewalk snow-melt systems
+1. Street and sidewalk snow-melt systems
 
-Public bathhouses, spas, and hot springs facilities
+2. Public bathhouses, spas, and hot springs facilities
 
-Large-scale laundry or kitchen operations in hospitals, hotels, prisons
+3. Large-scale laundry or kitchen operations in hospitals, hotels, prisons
 
-Waste treatment (sludge drying, incineration)
+4. Waste treatment (sludge drying, incineration)
 
-8. Recreational
+## Recreational
 
-Hot tubs, saunas, thermal spas
+1. Hot tubs, saunas, thermal spas
 
-Cooking fires for camping and outdoor grilling
+2. Cooking fires for camping and outdoor grilling
 
-Heated sports fields (e.g., under-turf coils in stadiums)
+3. Heated sports fields (e.g., under-turf coils in stadiums)
 
-Glass blowing or pottery as hobbies
+4. Glass blowing or pottery as hobbies
 
-9. Cultural & Religious
+## Cultural & Religious
 
-Ritual fires and cremations
+1. Ritual fires and cremations
 
-Candles, incense burning, and temple lamps
+2. Candles, incense burning, and temple lamps
 
-Festival bonfires and ceremonial pyres
+3. Festival bonfires and ceremonial pyres
 
-10. Scientific & Medical
+## Scientific & Medical
 
-Laboratory furnaces and autoclaves (sterilization)
+1. Laboratory furnaces and autoclaves (sterilization)
 
-Incubators for cell culture or bacterial growth
+2. Incubators for cell culture or bacterial growth
 
-Medical therapies: heat packs, hyperthermia treatment, cauterization
+3. Medical therapies: heat packs, hyperthermia treatment, cauterization
 
-Spacecraft thermal control systems
+4. Spacecraft thermal control systems
 
-Controlled environments for experiments (climate chambers)
+5. Controlled environments for experiments (climate chambers)
 
-11. Emergency & Military
+## Emergency & Military
 
-Field kitchens and portable heaters for troops
+1. Field kitchens and portable heaters for troops
 
-Decontamination using heat/steam
+2. Decontamination using heat/steam
 
-Flame-based signaling or flares
+3. Flame-based signaling or flares
 
-Controlled demolition (thermite, cutting torches)
+4. Controlled demolition (thermite, cutting torches)
 
-12. Emerging / High-Tech
+## Emerging / High-Tech
 
-Semiconductor manufacturing (diffusion furnaces)
+1. Semiconductor manufacturing (diffusion furnaces)
 
-Additive manufacturing (3D metal printing)
+2. Additive manufacturing (3D metal printing)
 
-Fusion research (tokamaks, lasers)
+3. Fusion research (tokamaks, lasers)
 
-Advanced battery manufacturing and testing
+4. Advanced battery manufacturing and testing
 
-Thermal energy storage (molten salts, phase-change materials)
+5. Thermal energy storage (molten salts, phase-change materials)

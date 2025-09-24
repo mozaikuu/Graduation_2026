@@ -1,125 +1,125 @@
 # ideas
 
-1. Energy & Power
+## Energy & Power
 
-Electricity generation: modern wind turbines (onshore & offshore)
+1. Electricity generation: modern wind turbines (onshore & offshore)
 
-Small-scale turbines for homes, farms, and remote sensors
+2. Small-scale turbines for homes, farms, and remote sensors
 
-Hybrid systems (wind–solar microgrids)
+3. Hybrid systems (wind–solar microgrids)
 
-Pumping water with mechanical windmills
+4. Pumping water with mechanical windmills
 
-Charging batteries in isolated locations
+5. Charging batteries in isolated locations
 
-2. Transportation
+## Transportation
 
-Sailing: boats, ships, yachts, and historical naval travel
+1. Sailing: boats, ships, yachts, and historical naval travel
 
-Wind-powered land vehicles (sail cars, land yachts, iceboats)
+2. Wind-powered land vehicles (sail cars, land yachts, iceboats)
 
-Kite-based cargo towing for ships (kite sails to reduce fuel use)
+3. Kite-based cargo towing for ships (kite sails to reduce fuel use)
 
-Paragliding and powered kiteboarding as mobility/recreation crossover
+4. Paragliding and powered kiteboarding as mobility/recreation crossover
 
-3. Agriculture
+## Agriculture
 
-Traditional windmills to grind grain or press oil
+1. Traditional windmills to grind grain or press oil
 
-Mechanical pumps to irrigate fields or drain wetlands
+2. Mechanical pumps to irrigate fields or drain wetlands
 
-Natural crop pollination assistance (wind-pollinated plants)
+3. Natural crop pollination assistance (wind-pollinated plants)
 
-Drying crops, hay, and seeds naturally
+4. Drying crops, hay, and seeds naturally
 
-Ventilation of barns and greenhouses
+5. Ventilation of barns and greenhouses
 
-4. Industrial & Mechanical
+## Industrial & Mechanical
 
-Natural ventilation and cooling of warehouses or factories
+1. Natural ventilation and cooling of warehouses or factories
 
-Early mechanical power: sawmills, paper mills, textile milling
+2. Early mechanical power: sawmills, paper mills, textile milling
 
-Air movement in mines (ventilation to clear gases)
+3. Air movement in mines (ventilation to clear gases)
 
-Assisting in combustion for furnaces or kilns (forced draft historically)
+4. Assisting in combustion for furnaces or kilns (forced draft historically)
 
-5. Environmental & Ecological
+## Environmental & Ecological
 
-Dispersing seeds and spores (plant reproduction)
+1. Dispersing seeds and spores (plant reproduction)
 
-Shaping landscapes (dune formation, erosion, soil transport)
+2. Shaping landscapes (dune formation, erosion, soil transport)
 
-Ocean mixing and upwelling that sustains marine ecosystems
+3. Ocean mixing and upwelling that sustains marine ecosystems
 
-Driving surface currents and wave formation
+4. Driving surface currents and wave formation
 
-Pollutant dispersion in air (both positive and negative effects)
+5. Pollutant dispersion in air (both positive and negative effects)
 
-6. Domestic / Everyday
+## Domestic / Everyday
 
-Natural cooling of homes and outdoor spaces (passive ventilation)
+1. Natural cooling of homes and outdoor spaces (passive ventilation)
 
-Clothes drying on lines
+2. Clothes drying on lines
 
-Venting smoke or odors from kitchens and fireplaces
+3. Venting smoke or odors from kitchens and fireplaces
 
-Wind chimes, garden ventilation, and air circulation for comfort
+4. Wind chimes, garden ventilation, and air circulation for comfort
 
-7. Municipal & Public Services
+## Municipal & Public Services
 
-Ventilation of tunnels, subways, and large public spaces (using natural drafts)
+1. Ventilation of tunnels, subways, and large public spaces (using natural drafts)
 
-Smoke and odor control in waste facilities
+2. Smoke and odor control in waste facilities
 
-Aeration of water bodies (wind-driven surface aerators)
+3. Aeration of water bodies (wind-driven surface aerators)
 
-8. Recreational & Sports
+4. ## Recreational & Sports
 
-Kite flying, kite surfing, kiteboarding
+5. Kite flying, kite surfing, kiteboarding
 
-Hang gliding, paragliding, skydiving
+6. Hang gliding, paragliding, skydiving
 
-Windsurfing, sailing races, ice sailing
+7. Windsurfing, sailing races, ice sailing
 
-Hot-air ballooning (navigation depends on wind currents)
+8. Hot-air ballooning (navigation depends on wind currents)
 
-Wind tunnels for indoor skydiving
+9. Wind tunnels for indoor skydiving
 
-9. Cultural & Aesthetic
+## Cultural & Aesthetic
 
-Wind instruments (Aeolian harps, wind organs)
+1. Wind instruments (Aeolian harps, wind organs)
 
-Flags, banners, and ceremonial kites
+2. Flags, banners, and ceremonial kites
 
-Architectural design that uses breezes for atmosphere and sound
+3. Architectural design that uses breezes for atmosphere and sound
 
-10. Scientific & Meteorological
+4. 1## Scientific & Meteorological
 
-Carrying weather systems and enabling climate circulation
+5. Carrying weather systems and enabling climate circulation
 
-Testing aerodynamics in wind tunnels
+6. Testing aerodynamics in wind tunnels
 
-Driving global heat and moisture distribution (jet streams)
+7. Driving global heat and moisture distribution (jet streams)
 
-Studying airborne particles, microbes, or pollutants
+8. Studying airborne particles, microbes, or pollutants
 
-Balloon-based atmospheric research
+9. Balloon-based atmospheric research
 
-11. Emergency & Military
+## Emergency & Military
 
-Natural dispersal of smoke signals or chemical agents (historically)
+1. Natural dispersal of smoke signals or chemical agents (historically)
 
-Wind direction critical for firefighting strategies
+2. Wind direction critical for firefighting strategies
 
-Sail- or kite-assisted troop or cargo transport in certain terrains
+3. Sail- or kite-assisted troop or cargo transport in certain terrains
 
-12. Emerging / High-Tech
+4. 1## Emerging / High-Tech
 
-Airborne wind energy (high-altitude kites or drones generating electricity)
+5. Airborne wind energy (high-altitude kites or drones generating electricity)
 
-Ventilation in smart buildings with passive wind chimneys
+6. Ventilation in smart buildings with passive wind chimneys
 
-Drone gliders that harvest wind currents for ultra-long flights
+7. Drone gliders that harvest wind currents for ultra-long flights
 
-Wind-powered desalination or refrigeration (using turbine-driven compressors)
+8. Wind-powered desalination or refrigeration (using turbine-driven compressors)
