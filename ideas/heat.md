@@ -2,13 +2,13 @@
 
 ## Domestic / Household
 
-1. Space heating: radiators, furnaces, under-floor systems, fireplaces
+1. `Space heating: radiators, furnaces, under-floor systems, fireplaces`
 
-2. Cooking & food prep: stovetops, ovens, grills, toasters
+2. `Cooking & food prep: stovetops, ovens, grills, toasters`
 
-3. Hot water supply: showers, baths, dishwashers, laundry
+3. Hot water supply: showers, baths, dishwashers, `laundry`
 
-4. Drying clothes (dryers, clotheslines using sun/ambient heat)
+4. `Drying clothes (dryers, clotheslines using sun/ambient heat)`
 
 5. Home saunas, steam rooms, and heated pools
 
@@ -48,7 +48,7 @@
 
 9. Desalination via thermal distillation
 
-10. Refining petroleum and petrochemicals
+10.   Refining petroleum and petrochemicals
 
 ## Energy & Power
 

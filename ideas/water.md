@@ -22,7 +22,7 @@
 
 2. Livestock drinking water
 
-3. Aquaculture (fish farms, shrimp farms)
+3. `Aquaculture (fish farms, shrimp farms)`
 
 4. Soil preparation (flooding, paddy fields)
 
@@ -52,7 +52,7 @@
 
 3. Oil & gas drilling, fracking, and refining
 
-4. Hydrogen production (electrolysis)
+4. `Hydrogen production (electrolysis)`
 
 ## Environmental & Ecological
 

@@ -74,17 +74,17 @@
 
 3. Aeration of water bodies (wind-driven surface aerators)
 
-4. ## Recreational & Sports
+## Recreational & Sports
 
-5. Kite flying, kite surfing, kiteboarding
+1. Kite flying, kite surfing, kiteboarding
 
-6. Hang gliding, paragliding, skydiving
+2. Hang gliding, paragliding, skydiving
 
-7. Windsurfing, sailing races, ice sailing
+3. Windsurfing, sailing races, ice sailing
 
-8. Hot-air ballooning (navigation depends on wind currents)
+4. Hot-air ballooning (navigation depends on wind currents)
 
-9. Wind tunnels for indoor skydiving
+5. Wind tunnels for indoor skydiving
 
 ## Cultural & Aesthetic
 
@@ -94,17 +94,17 @@
 
 3. Architectural design that uses breezes for atmosphere and sound
 
-4. 1## Scientific & Meteorological
+## Scientific & Meteorological
 
-5. Carrying weather systems and enabling climate circulation
+1. Carrying weather systems and enabling climate circulation
 
-6. Testing aerodynamics in wind tunnels
+2. Testing aerodynamics in wind tunnels
 
-7. Driving global heat and moisture distribution (jet streams)
+3. Driving global heat and moisture distribution (jet streams)
 
-8. Studying airborne particles, microbes, or pollutants
+4. Studying airborne particles, microbes, or pollutants
 
-9. Balloon-based atmospheric research
+5. Balloon-based atmospheric research
 
 ## Emergency & Military
 
@@ -114,12 +114,12 @@
 
 3. Sail- or kite-assisted troop or cargo transport in certain terrains
 
-4. 1## Emerging / High-Tech
+## Emerging / High-Tech
 
-5. Airborne wind energy (high-altitude kites or drones generating electricity)
+1. Airborne wind energy (high-altitude kites or drones generating electricity)
 
-6. Ventilation in smart buildings with passive wind chimneys
+2. Ventilation in smart buildings with passive wind chimneys
 
-7. Drone gliders that harvest wind currents for ultra-long flights
+3. Drone gliders that harvest wind currents for ultra-long flights
 
-8. Wind-powered desalination or refrigeration (using turbine-driven compressors)
+4. Wind-powered desalination or refrigeration (using turbine-driven compressors)

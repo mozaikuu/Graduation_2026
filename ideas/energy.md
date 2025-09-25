@@ -80,7 +80,7 @@
 
 5. Firefighting equipment and emergency response centers
 
-6. Security systems (cameras, sensors)
+6. `Security systems (cameras, sensors)`
 
 ## Health & Medical
 
@@ -114,15 +114,15 @@
 
 4. Temporary lighting and site heating/cooling
 
-5. 1## Recreation & Leisure
+## Recreation & Leisure
 
-6. Theme parks, ski lifts, and snowmaking
+1. Theme parks, ski lifts, and snowmaking
 
-7. Sports stadiums (lighting, climate control)
+2. Sports stadiums (lighting, climate control)
 
-8. Home entertainment: gaming consoles, streaming, VR
+3. Home entertainment: gaming consoles, streaming, VR
 
-9. Electric bikes, scooters, and hobby drones
+4. Electric bikes, scooters, and hobby drones
 
 ## Cultural & Religious
 
@@ -142,15 +142,15 @@
 
 4. Pollution control (scrubbers, filters)
 
-5. 1## Emergency & Military
+## Emergency & Military
 
-6. Base operations, radar, communications
+1. Base operations, radar, communications
 
-7. Electric defense systems (lasers, railguns, drones)
+2. Electric defense systems (lasers, railguns, drones)
 
-8. Disaster relief: mobile hospitals, desalination, water pumping
+3. Disaster relief: mobile hospitals, desalination, water pumping
 
-9. Backup power grids and hardened infrastructure
+4. Backup power grids and hardened infrastructure
 
 ## Emerging / High-Tech
 
